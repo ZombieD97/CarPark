@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarPark</string>
+    <string name="add_location">Save location</string>
+    <string name="take_to_location">Navigate to location</string>
+    <string name="preference_file_key">CARPARKKEY</string>
+    <string name="no_saved">No saved location</string>
+    <string name="saved">Location saved</string>
+    <string name="location_error">Failed to get last known location</string>
+    <string name="need_permission">Location permission is not granted</string>
+</resources>
